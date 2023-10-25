@@ -17,6 +17,4 @@
 //     return arr.map( y => y === 0 ? y : )
 // }
 
-function invertNum(arr){
-    return arr.map( y => y === 0 ? y : )
-}
+const invert = array => array.map(num => -num);
