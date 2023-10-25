@@ -13,6 +13,10 @@
 
 // console.log (invertNum([-2,4,6,-8]))
 
+// function invertNum(arr){
+//     return arr.map( y => y === 0 ? y : )
+// }
+
 function invertNum(arr){
-    return arr.map( y => y === 0 ? y : -y )
+    return arr.map( y => y === 0 ? y : )
 }
